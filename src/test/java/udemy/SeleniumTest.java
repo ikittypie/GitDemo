@@ -16,6 +16,9 @@ public class SeleniumTest {
 	public void elementsUI() {
 		
 		System.out.println("elementsUI");
+		System.out.println("Webautomation 1");
+		System.out.println("Webautomation 2");
+		System.out.println("Webautomation 3");
 	}
 	
 }
