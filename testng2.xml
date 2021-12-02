@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="udemy.SeleniumTest"/>
+      <class name="1udemy.SeleniumTest"/>
       <class name="udemy.RestAPITest"/>
       <class name="udemy.AppiumTest"/>
     </classes>
